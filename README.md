@@ -3,8 +3,8 @@
 - 🔭 Nowadays I’m currently working on Data Science Projects and Teaching Python;
 - 💾 Programming and Statistical Languages: Python and R;
 - 🤖 Machine Learning Features: TensorFlow-Keras and PyTorch (loading...);
-- ☁️ Cloud: Microsoft Azure Machine Learning;
-- 🗄️ DataBases: MySQL.
+- ☁️ Cloud: GCP;
+- 🗄️ DataBases: SQL.
 
 ##
 <div align="center">
