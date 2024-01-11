@@ -1,6 +1,6 @@
 ### Hey you! I'm Vinicius Pacheco 👋
 
-- 🔭 Nowadays I’m currently working on Data Science Projects and Teaching Python;
+- 🔭 Nowadays I’m currently working on Data Science Projects;
 - 💾 Programming and Statistical Languages: Python and R;
 - 🤖 Machine Learning Features: TensorFlow-Keras and PyTorch (loading...);
 - ☁️ Cloud: GCP;
